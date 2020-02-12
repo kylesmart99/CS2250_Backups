@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Caesar Cipher.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Caesar Cipher.cpp
+C:\Users\Owner\Desktop\2020 Things\CS2250\Caesar Cipher\Caesar Cipher\Caesar Cipher\Caesar Cipher.cpp(92,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\2020 Things\CS2250\Caesar Cipher\Caesar Cipher\Caesar Cipher\Caesar Cipher.cpp(131,20): warning C4018:  '<': signed/unsigned mismatch
+  Caesar Cipher.vcxproj -> C:\Users\Owner\Desktop\2020 Things\CS2250\Caesar Cipher\Caesar Cipher\Debug\main.exe
